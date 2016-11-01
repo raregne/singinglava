@@ -1,4 +1,4 @@
-package org.lyricSender;
+package org.rarefamily.singinglava.womanLava;
 
 /**
  * Hello world!
