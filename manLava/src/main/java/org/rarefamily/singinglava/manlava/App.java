@@ -1,4 +1,4 @@
-package org.manLava;
+package org.rarefamily.singinglava.manlava;
 
 /**
  * Hello world!
