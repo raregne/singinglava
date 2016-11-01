@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<http port="8080"/>
+	<singto address="255.255.255.0" port=""/>
+	<listento port="9999"/>
+</root>
