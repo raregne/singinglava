@@ -5,5 +5,6 @@
  - lava들은 자기 가사를 MQTT로 받으면 노래(broad cast로 환경 설정에서 읽은 특정 대역으로 전송)를 부른다.
  - lava들은 특정 가사를 받으면 그에 해당하는 표정을 짓는다. 
  
+ ㅁㅁ
  ### 참 친절한 설계서
 ![alt tag](https://github.com/raregne/singinglava/blob/master/raw/whattodo.jpeg)
